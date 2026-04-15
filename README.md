@@ -1,7 +1,5 @@
 ## Hi, I'm Jorge 👋
 
-AI and Big Data student with professional experience in Industrial Automation and Robotics.
-
 My background combines hands-on industrial systems development with data analysis and machine learning. After working in automation, I am currently expanding my skill set towards AI and Big Data, aiming to apply these technologies in real-world environments where data and processes intersect.
 
 I focus on building practical solutions beyond academic settings, developing projects that integrate machine learning models with real-world problems — especially in industrial contexts.
