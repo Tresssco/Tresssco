@@ -57,9 +57,3 @@ I focus on building practical solutions beyond academic settings, developing pro
 - Deepening knowledge in Big Data and distributed systems  
 - Exploring AI applications in industrial environments  
 
----
-
-### 📫 Contact
-
-- LinkedIn: (add here)
-- Email: (optional)
